@@ -1,2 +1,2 @@
 # sleeper build 💪
-after effects, premiere pro, notepad.exe
+after effects, notepad.exe
